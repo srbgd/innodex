@@ -1,0 +1,5 @@
+Demo link: http://127.0.0.1:9545/
+
+To start use "truffle develop" command.
+To test use "truffle test" command.
+To check client use "python3 ./client/main.py" command or import this script as a module.
